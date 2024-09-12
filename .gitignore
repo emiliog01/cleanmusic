@@ -1,0 +1,33 @@
+# Ignore virtual environment
+audio_classifier_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore configuration files
+*.config
+
+# Ignore backup files
+*.bak
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore any log files
+*.log
+
+# Ignore the dist folder
+dist/
+
+# Ignore .spec files
+*.spec
+
+# Ignore .dmg files
+*.dmg
+
+# Ignore Python scripts (to keep the algorithm private)
+*.py
+
+# Keep only necessary files for the webpage
+!index.html
