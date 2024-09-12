@@ -23,11 +23,12 @@ dist/
 # Ignore .spec files
 *.spec
 
-# Ignore .dmg files
-*.dmg
+# Uncomment the next line if you want to ignore .dmg files again in the future
+# *.dmg
 
 # Ignore Python scripts (to keep the algorithm private)
 *.py
 
 # Keep only necessary files for the webpage
 !index.html
+!AudioClassifier.dmg
